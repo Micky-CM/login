@@ -10,7 +10,7 @@ body{
   justify-content: center;
   width: 100vw;
   height: 100vh;
-  background: linear-gradient(332deg, rgba(0,150,255,1) 60%, rgba(114,255,255,1) 100%);
+  background: linear-gradient(350deg, rgba(25,25,112,1) 58%, rgba(138,43,226,1) 94%);
   background-repeat: no-repeat;
   gap: 4rem;
   padding: 4rem 8rem;
@@ -19,7 +19,6 @@ body{
   background: rgba(255, 255, 255, 0.5);
   border-radius: 1rem;
   box-shadow: 4px 4px 4px rgba(0,0,0,0.4);
-
   padding: 4rem 3rem;
 }
 form{
@@ -50,7 +49,7 @@ input{
   padding: 6px 8px;
 }
 button{
-  background: #0096FF;
+  background: #8a2be2;
   color: white;
   font-size: 16px;
   font-weight: 600;
